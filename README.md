@@ -5,7 +5,8 @@
 - Les grands mathématiciens et leurs contributions.
 - Architecture machine ; conversion table ascii, binaire, hexadecimal
   
-DOCUMENTATION : 
+DOCUMENTATION :  
+
 https://www.youtube.com/watch?v=4knBXkN1GEU  
 https://www.youtube.com/watch?v=Ps0JFsyX2fU  
 https://www.youtube.com/watch?v=Gm15Qi5k2Q0  
