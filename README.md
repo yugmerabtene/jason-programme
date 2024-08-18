@@ -1,4 +1,4 @@
-### Module 1 : Introduction à l'Histoire des Chiffres et de la Science des Mathématiques
+### Module 1 : Introduction à l'Histoire des Chiffres et de la Science des Mathématiques et architecture machine
 **Objectifs** : Comprendre l'origine des chiffres, l'évolution des systèmes numériques, et l'impact des mathématiques dans la science et la technologie.  
 **Contenu** :
 - Origine des chiffres : système décimal, binaire, hexadécimal.
