@@ -6,17 +6,18 @@
 - Architecture machine ; conversion table ascii, binaire, hexadecimal
   
 DOCUMENTATION : 
-https://www.youtube.com/watch?v=4knBXkN1GEU
-https://www.youtube.com/watch?v=Ps0JFsyX2fU
-https://www.youtube.com/watch?v=Gm15Qi5k2Q0
-https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=14s
-https://www.youtube.com/watch?v=Ml3-kVYLNr8
-https://www.youtube.com/watch?v=GYlNoAMBY6o
-https://www.youtube.com/watch?v=N3o5yHYLviQ
-https://www.youtube.com/watch?v=ioJkA7Mw2-U
-https://www.youtube.com/watch?v=A9WLYbE0p-I
-https://www.youtube.com/watch?v=uVNyQZQY2mY&t=323s
-https://www.youtube.com/watch?v=J8rOPvFGXt0
+https://www.youtube.com/watch?v=4knBXkN1GEU  
+https://www.youtube.com/watch?v=Ps0JFsyX2fU  
+https://www.youtube.com/watch?v=Gm15Qi5k2Q0  
+https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=14s  
+https://www.youtube.com/watch?v=Ml3-kVYLNr8  
+https://www.youtube.com/watch?v=GYlNoAMBY6o  
+https://www.youtube.com/watch?v=N3o5yHYLviQ  
+https://www.youtube.com/watch?v=ioJkA7Mw2-U  
+https://www.youtube.com/watch?v=A9WLYbE0p-I  
+https://www.youtube.com/watch?v=uVNyQZQY2mY&t=323s  
+https://www.youtube.com/watch?v=J8rOPvFGXt0  
+
 
 ### Module 2 : Introduction au Web Design et Programmation en HTML/CSS
 **Objectifs** : Apprendre à créer des pages web statiques en utilisant HTML et CSS.  
